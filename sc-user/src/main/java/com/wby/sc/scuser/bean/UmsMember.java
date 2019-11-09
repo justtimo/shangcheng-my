@@ -1,9 +1,10 @@
 package com.wby.sc.scuser.bean;
 
-import org.springframework.data.annotation.Id;
+
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
+import javax.persistence.Id;
 import java.util.Date;
 
 public class UmsMember {
